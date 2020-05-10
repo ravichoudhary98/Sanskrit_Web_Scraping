@@ -72,3 +72,5 @@ def San_text(j):
         file.write("<\BODY>\n")
         file.write("<\DOC>\n")
         file.close()
+
+San_text(j = 30000)       
